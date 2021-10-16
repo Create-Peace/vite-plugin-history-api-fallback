@@ -1,0 +1,28 @@
+{
+  "name": "vite-plugin-history-api-fallback",
+  "version": "0.0.1",
+  "description": "vite-history-api-fallback",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^11.13.5"
+  },
+  "peerDependencies": {
+    "vite": "^2.6.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Create-Peace/vite-plugin-history-api-fallback.git"
+  },
+  "keywords": [
+    "vite-plugin"
+  ],
+  "author": "M-Ray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Create-Peace/vite-plugin-history-api-fallback/issues"
+  },
+  "homepage": "https://github.com/Create-Peace/vite-plugin-history-api-fallback#readme"
+}
